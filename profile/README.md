@@ -35,11 +35,9 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
         <img align="center" alt="Array | Website" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" style="margin: 0 20px;" />
     </a> 
     <a href="https://www.instagram.com/array.world"> 
-        <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" style="margin: 0 20px;" />
     </a>
     <a href="https://www.linkedin.com/company/array-world">
-        <img align="center" alt="Array | Instagram" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" style="margin: 0 20px;" />
-    </a>
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>    </a>
 </p>
 
 
