@@ -42,7 +42,32 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
 ## ❤️ Our Engineers
 
 We are proud to showcase the amazing ${\color{#FC16F0}open \space source \space contributions}$
- made by the talented engineers in ${\color{#FC16F0}Array \space Innovation}$
+ made by the talented engineers in ${\color{#FC16F0}Array \space Innovation}$.
+ 
+ Our developers have contributed to various open source projects including:
+
+ <p align="center">
+    <a href="https://www.array.world">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="composer"  width="60" />
+    </a> 
+    <a href="https://www.instagram.com/array.world"> 
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/768px-Grafana_logo.svg.png?20230113183101" alt="grafana" width="60" />
+    </a>
+    <a href="https://www.linkedin.com/company/array-world">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="DBeaver" width="60" />
+    </a>
+         <a href="https://github.com/ArrayInnovation">
+        <img align="center" src="https://avatars.githubusercontent.com/u/57169982?s=280&v=4" alt="array github" width="60" />
+    </a>  
+     <a href="mailto:enquiries@array.world">
+        <img align="center" src="https://www.svgrepo.com/show/354049/mattermost-icon.svg" alt="mattermost" width="60" />
+    </a> 
+    <a href="mailto:enquiries@array.world">
+        <img align="center" src="https://www.svgrepo.com/show/439270/prettier.svg" alt="prettier" width="60" />
+    </a>  
+</p>
+
+and many more!
 
 
 
