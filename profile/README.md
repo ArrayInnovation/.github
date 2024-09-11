@@ -2,7 +2,9 @@
 
 
 <h1 align ="center">
+     <a href="https://www.array.world">
     <img align="center" width=280 src="https://static.wixstatic.com/media/9f8f10_0cdc6e51fd274c00b6eddad6c6eb9dd8~mv2.png/v1/fill/w_275,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LONG_1_4x.png" alt="Array Logo" />
+     </a>
 </h1>
 
 
@@ -32,12 +34,12 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
 ## Connect
 <p align="center">
     <a href="https://www.array.world">
-        <img align="center" alt="Array | Website" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" style="margin: 0 20px;" />
     </a> 
     <a href="https://www.instagram.com/array.world"> 
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="array insta" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/company/array-world">
-       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hridoy.the.hazard10" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="array linkedin" height="30" width="40" />
     </a>    
 </p>
 
