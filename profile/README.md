@@ -32,3 +32,9 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=2B03FD&style=for-the-badge" alt="ARRAY Innovation" /> 
+
+## :bulb: About Array
+
+ARRAY Innovation is an AI & Cloud native digital solutions firm providing consulting, professional & managed services, and strategic resourcing partnerships. We are experts at enterprise software development and strive to be the best at what we do. We use the latest tools and best practices to deliver engineering excellence to achieve your objectives. 
+
+
