@@ -17,4 +17,5 @@
 </h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=3403E1&style=for-the-badge" alt="ARRAY Innovation" /> 
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ArrayInnovation}/count.svg&color=3403E1" alt="ArrayInnovation :: Visitor's Count" /></p>
