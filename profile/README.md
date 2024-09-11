@@ -5,7 +5,7 @@
     <img align="center" width=250 src="https://static.wixstatic.com/media/9f8f10_0cdc6e51fd274c00b6eddad6c6eb9dd8~mv2.png/v1/fill/w_275,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LONG_1_4x.png" alt="Array Logo" />
 </h1>
 
-<p>
+<p align="center">
 <a href="https://www.array.world">🌎</a> 
     <a href="https://www.instagram.com/array.world"> 
     <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
