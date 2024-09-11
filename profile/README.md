@@ -6,6 +6,14 @@
 
 </h1>
 
+
+
+<p align="center">
+• <a href="https://www.array.world">Website 🌎</a> • <a href="https://www.instagram.com/array.world">LinkedIn </a> • <a href="https://www.linkedin.com/company/array-world">Instagram ⚙️</a>
+</p>
+
+
+
 <h3 align="center"> 
 
 <a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=2FA6B2&center=true&random=false&width=535&lines=Hello! We're ARRAY Innovation, and we do" alt="Typing SVG" /></a>
