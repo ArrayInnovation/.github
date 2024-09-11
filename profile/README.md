@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.array.world">
-    <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/globe.svg" />
+    <img align="center" alt="Array | Website" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 
 </a> 
     <a href="https://www.instagram.com/array.world"> 
