@@ -1,20 +1,20 @@
 
 
 
-<h1 align ="center">
+<div align ="center">
      <a href="https://www.array.world">
     <img align="center" width=280 src="https://static.wixstatic.com/media/9f8f10_0cdc6e51fd274c00b6eddad6c6eb9dd8~mv2.png/v1/fill/w_275,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LONG_1_4x.png" alt="Array Logo" />
      </a>
-</h1>
+</div>
 
-<h3 align="center"> 
 
-<a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=28ACB5&center=true&random=false&width=535&lines=Hello! We're ARRAY Innovation, and we do" alt="Typing SVG" /></a>
-
+<h3 align="center" style="color:#28ACB5"> 
+Hello! We're ARRAY Innovation, and we do:
 </h3>
 
+
 <h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=Artificial+Intelligence;Software+Engineering;Cloud+Engineering" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=Artificial+Intelligence;Software+Engineering;Cloud+Engineering" alt="Typing SVG" /></a>
 </h3>
 
 
@@ -35,7 +35,7 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
 
 ## ❤️ Our Engineers
 
-We are proud to showcase the amazing contributions made by the talented engineers in Array Innovation
+We are proud to showcase the amazing <span style="color:#FC16F0"> open source contributions </span> made by the talented engineers in <span style="color:#FC16F0"> Array Innovation </span>
 
 
 
