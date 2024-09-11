@@ -22,7 +22,11 @@
 
 ## :bulb: About Array
 
-ARRAY Innovation is an AI & Cloud native digital solutions firm providing consulting, professional & managed services, and strategic resourcing partnerships. We are experts at enterprise software development and strive to be the best at what we do. We use the latest tools and best practices to deliver engineering excellence to achieve your objectives. 
+ARRAY Innovation is an AI & Cloud native digital solutions firm providing consulting, professional & managed services, and strategic resourcing partnerships. We are experts at enterprise software development and strive to be the best at what we do. We use the latest tools and best practices to deliver engineering excellence to achieve your objectives.
+
+## Our People
+
+
 
 
 ## Connect
