@@ -6,13 +6,13 @@
 </h1>
 <p align="center">
     <a href="https://www.array.world">
-        <img align="center" alt="Array | Website" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" style="margin: 0 10px;" />
+        <img align="center" alt="Array | Website" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" style="margin: 0 20px;" />
     </a> 
     <a href="https://www.instagram.com/array.world"> 
-        <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" style="margin: 0 10px;" />
+        <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" style="margin: 0 20px;" />
     </a>
     <a href="https://www.linkedin.com/company/array-world">
-        <img align="center" alt="Array | Instagram" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" style="margin: 0 10px;" />
+        <img align="center" alt="Array | Instagram" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" style="margin: 0 20px;" />
     </a>
 </p>
 
