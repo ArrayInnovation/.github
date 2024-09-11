@@ -40,7 +40,10 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
     </a>
     <a href="https://www.linkedin.com/company/array-world">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="array linkedin" height="30" width="40" />
-    </a>    
+    </a>
+         <a href="https://github.com/ArrayInnovation">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="array linkedin" height="30" width="40" />
+    </a>  
 </p>
 
 
