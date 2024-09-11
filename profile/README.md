@@ -34,6 +34,7 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
 ## Connect
 <p align="center">
     <a href="https://www.array.world">
+        <img align="center" src="https://www.svgrepo.com/show/278317/internet-www.svg" alt="array insta" height="30" width="40" />
     </a> 
     <a href="https://www.instagram.com/array.world"> 
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="array insta" height="30" width="40" />
@@ -45,7 +46,7 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="array github" height="30" width="40" />
     </a>  
      <a href="mailto:enquiries@array.world">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="array github" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="array email" height="30" width="40" />
     </a>  
 </p>
 
