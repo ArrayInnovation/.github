@@ -32,6 +32,5 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=3403E1&style=for-the-badge" alt="ARRAY Innovation" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=2B03FD&style=for-the-badge" alt="ARRAY Innovation" /> 
 
-<img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Views&color=5F8BEC&style=flat-square" alt="views on github" />
