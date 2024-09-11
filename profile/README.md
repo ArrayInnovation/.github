@@ -1,6 +1,6 @@
 
 <h1 align ="center">
-<a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=E852AF&center=true&random=false&width=435&lines=ARRAY Innovation" alt="Typing SVG" /></a>
+<a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=FC17F0&center=true&random=false&width=435&lines=ARRAY Innovation" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">
@@ -8,4 +8,4 @@
 </h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=E852AF&style=for-the-badge" alt="ARRAY Innovation" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=3403E1&style=for-the-badge" alt="ARRAY Innovation" /> 
