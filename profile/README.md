@@ -7,15 +7,19 @@
      </a>
 </div>
 
+<br>
 
-<h3 align="center" style="color:#28ACB5"> 
+<h3 align="center"> 
+<code  style="color:#28ACB5">
 Hello! We're ARRAY Innovation, and we do:
+</code>
 </h3>
 
 
 <h3 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=Artificial+Intelligence;Software+Engineering;Cloud+Engineering" alt="Typing SVG" /></a>
 </h3>
+
 
 
 ## 💡  About Array
