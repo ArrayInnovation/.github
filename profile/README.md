@@ -11,6 +11,8 @@
     <a href="https://www.instagram.com/array.world"> 
     <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
  </a>
+</p>
+<p align="center">
     <a href="https://www.linkedin.com/company/array-world">
           <img align="center" alt="Array | Instagram" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
     </a>
@@ -32,4 +34,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=3403E1&style=for-the-badge" alt="ARRAY Innovation" /> 
 
-<img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Views&color=greenbuoy&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Views&color=5F8BEC&style=flat-square" alt="views on github" />
