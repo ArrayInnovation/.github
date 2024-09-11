@@ -9,7 +9,7 @@
 
 <h3 align="center"> 
 
-<a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=2FA6B2&center=true&random=false&width=535&lines=Hello! We're ARRAY Innovation, and we do" alt="Typing SVG" /></a>
+<a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=28ACB5&center=true&random=false&width=535&lines=Hello! We're ARRAY Innovation, and we do" alt="Typing SVG" /></a>
 
 </h3>
 
