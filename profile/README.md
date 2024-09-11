@@ -26,12 +26,12 @@
 
 ARRAY Innovation is an AI & Cloud native digital solutions firm providing consulting, professional & managed services, and strategic resourcing partnerships. We are experts at enterprise software development and strive to be the best at what we do. We use the latest tools and best practices to deliver engineering excellence to achieve your objectives.
 
-## Our People
+## ❤️ Our People
 
 
 
 
-## Connect
+## 🤙 Find Us
 <p align="center">
     <a href="https://www.array.world">
         <img align="center" src="https://www.svgrepo.com/show/278317/internet-www.svg" alt="array insta" height="30" width="40" />
