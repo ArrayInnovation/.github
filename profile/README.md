@@ -6,11 +6,11 @@
 
 </h1>
 
-<h2 align="center"> 
+<h3 align="center"> 
 
-<a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=FC17F0&center=true&random=false&width=435&lines=Hello! we're ARRAY Innovation, and we do" alt="Typing SVG" /></a>
+<a href="https://github.com/ArrayInnovation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=FC17F0&center=true&random=false&width=535&lines=Hello! We're ARRAY Innovation, and we do" alt="Typing SVG" /></a>
 
-</h2>
+</h3>
 
 <h3 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=Artificial+Intelligence;Software+Engineering;Cloud+Engineering" alt="Typing SVG" /></a>
