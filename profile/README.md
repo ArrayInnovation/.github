@@ -18,13 +18,13 @@
 </h3>
 
 
-##  About Array
+## 💡  About Array
 
 ARRAY Innovation is an AI & Cloud native digital solutions firm providing consulting, professional & managed services, and strategic resourcing partnerships. We are experts at enterprise software development and strive to be the best at what we do. We use the latest tools and best practices to deliver engineering excellence to achieve your objectives.
 
 <img src="https://static.wixstatic.com/media/9f8f10_9e6785a0f0994cac914bea301baf5800~mv2.jpg/v1/fill/w_1573,h_132,fp_0.35_0.41,lg_1,q_80,enc_auto/9f8f10_9e6785a0f0994cac914bea301baf5800~mv2.jpg" />
 
-### We do:
+### Our digital services include:
 
 - Consulting
 - Digital Transformation
