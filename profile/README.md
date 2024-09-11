@@ -6,11 +6,13 @@
 </h1>
 
 <p align="center">
-<a href="https://www.array.world">🌎</a> 
+<a href="https://www.array.world">
+    <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/globe.svg" />
+
+</a> 
     <a href="https://www.instagram.com/array.world"> 
     <img align="center" alt="Array | Linkedin" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
  </a>
-</p>
     <a href="https://www.linkedin.com/company/array-world">
           <img align="center" alt="Array | Instagram" width="20px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
     </a>
@@ -31,14 +33,3 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArrayInnovation&label=Profile%20views&color=2B03FD&style=for-the-badge" alt="ARRAY Innovation" /> 
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=11855343&period=past_28_days" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=5x5&color_scheme=dark" width="465" height="auto">
-    <img alt="Most engaged people of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=11855343&period=past_28_days&image_size=5x5&color_scheme=light" width="465" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
