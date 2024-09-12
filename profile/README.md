@@ -47,28 +47,41 @@ We are proud to showcase the amazing ${\color{#FC16F0}open \space source \space 
  Our developers have contributed to various open source projects including:
 
  <p align="center">
-    <a href="https://www.array.world">
+    <a href="https://github.com/composer/composer/pull/12091">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="composer"  width="60" />
     </a> 
-    <a href="https://www.instagram.com/array.world"> 
+    <a href="https://github.com/grafana/grafana/pull/92485"> 
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/768px-Grafana_logo.svg.png?20230113183101" alt="grafana" width="60" />
     </a>
-    <a href="https://www.linkedin.com/company/array-world">
+    <a href="https://github.com/dbeaver/dbeaver/pull/35308">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="DBeaver" width="60" />
     </a>
-         <a href="https://github.com/ArrayInnovation">
-        <img align="center" src="https://avatars.githubusercontent.com/u/57169982?s=280&v=4" alt="array github" width="60" />
+         <a href="https://github.com/mermaid-js/mermaid-cli/pull/725">
+        <img align="center" src="https://avatars.githubusercontent.com/u/57169982?s=280&v=4" alt="mermaid" width="60" />
     </a>  
-     <a href="mailto:enquiries@array.world">
+     <a href="https://github.com/mattermost/mattermost/pull/27912">
         <img align="center" src="https://www.svgrepo.com/show/354049/mattermost-icon.svg" alt="mattermost" width="60" />
     </a> 
-    <a href="mailto:enquiries@array.world">
+    <a href="https://github.com/prettier/prettier/pull/16617">
         <img align="center" src="https://www.svgrepo.com/show/439270/prettier.svg" alt="prettier" width="60" />
     </a>  
+    <a href="https://github.com/vitest-dev/vitest/pull/6392">
+        <img align="center" src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="vitest" width="60" />
+    </a> 
+    <a href="https://github.com/twentyhq/twenty/pull/6521">
+        <img align="center" src="https://github.com/twentyhq/twenty/raw/main/packages/twenty-website/public/images/core/logo.svg" alt="twenty" width="60" />
+    </a> 
+    <a href="https://github.com/firefly-iii/firefly-iii/pull/9179">
+        <img align="center" src="https://raw.githubusercontent.com/firefly-iii/firefly-iii/develop/.github/assets/img/logo-small.png" alt="drawdb" width="60" />
+    </a> 
+    <a href="https://github.com/drawdb-io/drawdb">
+        <img align="center" src="https://avatars.githubusercontent.com/u/139706923?s=200&v=4" alt="drawdb" width="60" />
+    </a> 
+
+
 </p>
 
 and many more!
-
 
 
 ## 📱 Find Us
