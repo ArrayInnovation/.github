@@ -42,8 +42,8 @@ ARRAY Innovation is an AI & Cloud native digital solutions firm providing consul
 
 ## ❤️ Our Engineers
 
-We are proud to showcase the amazing ${\color{#FC16F0}open \space source \space contributions}$
- made by the talented engineers in ${\color{#FC16F0}Array \space Innovation}$.
+We are proud to showcase the amazing $${\color{#FC16F0} \text{open source contributions}}$$
+ made by the talented engineers in $${\color{#FC16F0}\text{Array Innovation}}$$.
  
  Our developers have contributed to various open source projects including:
 
