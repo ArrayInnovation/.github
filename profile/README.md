@@ -75,7 +75,7 @@ We are proud to showcase the amazing $${\color{#FC16F0} \text{open source contri
     <a href="https://github.com/firefly-iii/firefly-iii/pull/9179">
         <img align="center" src="https://raw.githubusercontent.com/firefly-iii/firefly-iii/develop/.github/assets/img/logo-small.png" alt="drawdb" width="60" />
     </a> 
-    <a href="https://github.com/drawdb-io/drawdb">
+    <a href="https://github.com/drawdb-io/drawdb/pull/200">
         <img align="center" src="https://avatars.githubusercontent.com/u/139706923?s=200&v=4" alt="drawdb" width="60" />
     </a> 
 
